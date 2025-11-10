@@ -1,6 +1,6 @@
 # Machine Learning Lab Experiments
 
-Welcome to the Machine Learning Lab! This repository contains a collection of experiments, code samples, and notes related to machine learning concepts and practical implementations.
+Welcome to the Machine Learning Lab! This repository contains a collection of experiments, code samples, related to machine learning concepts and practical implementations.
 
 ## Contents
 
@@ -8,7 +8,7 @@ Welcome to the Machine Learning Lab! This repository contains a collection of ex
 - **Regression Models**: Implementation of Linear Regression, Polynomial Regression, Decision Tree Regression, and Random Forest Regression.
 - **Classification Models**: Examples include Logistic Regression, K-Nearest Neighbors, Support Vector Machine (SVM), Naive Bayes, Decision Tree, Random Forest.
 - **Clustering**: K-Means, Hierarchical Clustering examples.
-- **Dimensionality Reduction**: PCA, LDA, and Kernel PCA.
+- **Dimensionality Reduction**: PCA
 - **Model Selection & Evaluation**: Techniques such as cross-validation, grid search, and metrics like accuracy, precision, recall, F1-score.
 - **Deep Learning**: Basics and demos using neural networks (if included).
 
