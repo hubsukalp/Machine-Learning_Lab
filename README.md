@@ -56,7 +56,6 @@ Make sure that you have Python and pip installed on your system.
 ```
 Machine-Learning_Lab/
 ├── assignment_1/
-│   ├── README.md
 │   ├── notebook.ipynb
 │   └── data/
 ├── assignment_2/
