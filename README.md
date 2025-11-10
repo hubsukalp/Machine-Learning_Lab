@@ -1,80 +1,80 @@
-# Machine Learning Lab
+# 🚀 Machine Learning Lab – Symbiosis Institute of Technology, Nagpur
 
-A curated collection of assignments for learning and practicing key machine learning techniques. This repository includes hands-on experiments, code samples, for understanding algorithms such as linear regression, classification, clustering, and neural networks using Python and popular frameworks.
+A curated collection of **14 Machine Learning laboratory experiments** covering Regression, Classification, Clustering, Dimensionality Reduction (PCA), Association Rule Mining (Apriori), and Neural Networks. Each notebook contains step-by-step implementation, visualizations, model evaluation, and conclusions.
 
-## Table of Contents
+## 📌 Overview
 
-- [Overview](#overview)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Structure](#structure)
-- [Contributing](#contributing)
-- [License](#license)
-- [Contact](#contact)
+This repository is intended for **students, educators, and ML beginners** to learn Machine Learning using hands-on coding and real datasets.
 
-## Overview
+✅ Dataset preprocessing and visualization  
+✅ Model training, tuning, and evaluation  
+✅ Confusion matrix, accuracy metrics, residual plots, PCA visualization  
+✅ Artificial Neural Network implementation on MNIST dataset  
 
-This lab is designed for students, educators, and enthusiasts to explore machine learning concepts through practical tasks. Each assignment includes step-by-step instructions, starter code, and examples to support self-paced learning.
+## 🔧 Installation
 
-## Installation
+Ensure that **Python 3.8+** is installed.
 
-To install the required dependencies for this lab, please use the `requirements.txt` file provided in the repository. It includes essential packages such as:
+### 1️⃣ Create a Virtual Environment
 
-- `mlxtend`
-- `tensorflow`
-- Additional dependencies for the assignments
+```
+python -m venv .venv
+# Windows:
+.venv\Scripts\activate
+# macOS/Linux:
+source .venv/bin/activate
+```
 
-You can install the dependencies by running:
+### 2️⃣ Install Dependencies
 
-```bash
+```
 pip install -r requirements.txt
 ```
 
-Make sure that you have Python and pip installed on your system.
+## ▶️ Usage
 
-## Usage
-
-1. Clone the repository:
-    ```bash
-    git clone https://github.com/hubsukalp/Machine-Learning_Lab.git
-    cd Machine-Learning_Lab
-    ```
-
-2. Install dependencies:
-    ```bash
-    pip install -r requirements.txt
-    ```
-
-3. Explore the labs and notebooks:
-    - Open notebooks with Jupyter or compatible IDEs (e.g., VS Code).
-
-4. Run and experiment:
-    - Modify code and run cells to observe results.
-
-## Project Structure
+Clone the repository:
 
 ```
-Machine-Learning_Lab/
-├── assignment_1/
-│   ├── notebook.ipynb
-│   └── data/
-├── assignment_2/
-├── requirements.txt
-└── README.md
+git clone https://github.com/hubsukalp/Machine-Learning_Lab.git
+cd Machine-Learning_Lab
 ```
-- **assignment_X/**: Individual machine learning assignments.
-- **requirements.txt**: List of Python dependencies.
-- **README.md**: Project-level documentation.
 
-## Contributing
 
-Contributions are welcome! Fork the repository, create a new branch, and submit a pull request for improvements, bug fixes, or additional assignments. Please review the [CONTRIBUTING guidelines](CONTRIBUTING.md) if available.
+## 🧪 Experiments Summary
 
-## License
+| #  | Experiment Title                                                     | Concept Covered |
+|----|----------------------------------------------------------------------|------------------|
+| 1  | Linear Regression – House Price Prediction                           | Regression |
+| 2  | Data Preprocessing & Cleaning                                        | Feature Engineering |
+| 3  | PCA – Exploration                                                    | Dimensionality Reduction |
+| 4  | PCA From Scratch (Python Implementation)                             | PCA Mathematics |
+| 5  | KNN – MNIST, Accuracy + Confusion Matrix                             | Classification |
+| 6  | Decision Tree – Diabetes Prediction                                  | Classification |
+| 7  | Naive Bayes Classifier (Categorical NB)                              | Probabilistic Classification |
+| 8  | Decision Tree + Random Forest – Diabetes Prediction                  | Ensemble Learning |
+| 9  | Simple Linear Regression – Test Score Prediction                     | Regression |
+| 10 | Multiple Linear Regression + Residual Analysis                       | Regression Diagnostics |
+| 11 | Logistic Regression + Gradient Descent                               | Optimization / Classification |
+| 12 | K-Means Clustering – Customer Segmentation                           | Clustering |
+| 13 | Apriori Algorithm – Association Rule Mining                          | Market Basket Analysis |
+| 14 | ANN – MNIST Handwritten Digit Recognition                            | Neural Networks |
 
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+## 🤝 Contributing
 
-## Contact
+Contributions are welcome! Follow the standard GitHub flow:
 
-Maintainer: [hubsukalp](https://github.com/hubsukalp)  
-For questions or feedback, please open an issue or contact via GitHub.
+```
+fork → create branch → commit changes → submit pull request
+```
+
+Example:
+
+```
+git checkout -b feature-enhancement
+```
+
+## 📫 Contact
+
+Maintainer: https://github.com/hubsukalp  
+For suggestions or issues, please open an issue on GitHub.  
