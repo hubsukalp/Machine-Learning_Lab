@@ -7,7 +7,7 @@ A curated collection of assignments for learning and practicing key machine lear
 - [Overview](#overview)
 - [Installation](#installation)
 - [Usage](#usage)
-- [Project Structure](#project-structure)
+- [Structure](#structure)
 - [Contributing](#contributing)
 - [License](#license)
 - [Contact](#contact)
