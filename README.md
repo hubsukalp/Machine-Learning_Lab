@@ -1,6 +1,6 @@
 # Machine Learning Lab
 
-A curated collection of assignments for learning and practicing key machine learning techniques. This repository includes hands-on experiments, code samples, and guidance for understanding algorithms such as linear regression, classification, clustering, and neural networks using Python and popular frameworks.
+A curated collection of assignments for learning and practicing key machine learning techniques. This repository includes hands-on experiments, code samples, for understanding algorithms such as linear regression, classification, clustering, and neural networks using Python and popular frameworks.
 
 ## Table of Contents
 
@@ -46,7 +46,6 @@ Make sure that you have Python and pip installed on your system.
     ```
 
 3. Explore the labs and notebooks:
-    - Each folder contains Jupyter notebooks, datasets, and instructions.
     - Open notebooks with Jupyter or compatible IDEs (e.g., VS Code).
 
 4. Run and experiment:
